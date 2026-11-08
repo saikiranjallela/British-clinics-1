@@ -1,0 +1,5 @@
+- [x] Build the shared clinic layout, responsive navigation, and branded design tokens.
+- [x] Build the home page and six additional clinic information pages.
+- [x] Implement and validate the WhatsApp appointment flow and contact links.
+- [x] Add unique page metadata, clinic structured data, and targeted route/form tests.
+- [x] Verify the live preview, mobile navigation, and build diagnostics.
